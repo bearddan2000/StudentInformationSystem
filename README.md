@@ -1,4 +1,4 @@
-# StudentInformationSystem
+# java-web-maven-spring-replace-jackson-StudentInformationSystem
 Building a REST Service with Spring Boot and MongoDB
 
 This source code's tutorials: 
